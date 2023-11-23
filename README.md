@@ -5,8 +5,8 @@ This is the code repository for a Drum Source Separation method FTunet, and we p
 
 - median SDR (dB) results of different models in separating different drum sounds.
 
-![](.\results\median-SDR.PNG)
+![](results/median-SDR.PNG)
 
 - Average SDR (dB) results of different models in separating different drum sounds.
 
-![](.\results\average-SDR.PNG)
+![](results/average-SDR.PNG)
