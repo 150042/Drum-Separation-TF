@@ -1,0 +1,12 @@
+{
+    "train_path": "../data/drum_100_all/train",
+    "test_path": "../data/drum_100_all/valid",
+    "result_path": "../data/drum_100_all_results",
+    "checkpoints_dir": "../checkpoints_drum_100",
+    "sr": 44100, 
+    "n_fft": 2048, 
+    "K": ["kick", "snare", "hihat", "cymbal", "tom"],
+    "seed": 42,
+    "G_alpha": 0.1,
+    "G_beta": 0.1
+} 
